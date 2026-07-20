@@ -1,6 +1,6 @@
 package org.tnsif.acc.c2tc.javabasics;
 
-public class LangExample {
+public class Langexample {
 
 	public static void main(String[] args) {
 		
